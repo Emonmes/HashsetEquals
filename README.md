@@ -1,0 +1,1 @@
+testando equals e hash
